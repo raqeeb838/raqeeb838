@@ -1,4 +1,4 @@
-**🚀 <span style="font-size:100px">About Me<span>**<br><br>
+**🚀 About Me**<br><br>
 I specialize in building high-performance web applications, blending front-end and back-end expertise. With a strong focus on HTML, CSS, JavaScript, and Laravel, I create seamless, responsive user experiences and efficient back-end solutions. I thrive on transforming complex requirements into clean, scalable, and functional code.
 
 🌟 What I Bring to the Table:<br><br>
