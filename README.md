@@ -12,5 +12,11 @@ Database Proficiency: Skilled in SQL Server for optimizing queries and managing 
 I'm always pushing the boundaries of web development, currently exploring deeper concepts in Laravel and API optimization. In the future, I aim to level up my front-end development with advanced JavaScript frameworks and expand my skills in DevOps.
 <br><br><br>
 🛠 Skills
-HTML • CSS • JavaScript • Bootstrap • Laravel • PHP • SQL Server • JSON
+🖥️ Front-End: HTML | CSS | JavaScript | Bootstrap | 🎨 Figma
+
+🔧 Back-End: PHP | Laravel | 🧩 JSON
+
+🗄️ Databases: 🐬 MySQL | 🏙️ SQL Server
+
+🔗 APIs: 🌐 RESTful APIs | 🧩 JSON Integration
 
